@@ -23,8 +23,7 @@ Source Code: https://github.com/EliHeuman/Eye/blob/master/index.html
 If you are having issues, please let me know, and <a href="mailto:biz.elih@gmail.com"> email me.</a>
 ___
 ## Roadmap of future improvements
-- When you click start multiple times, the velocity increases—planning to limit this option.
-- Add a button to reduce packmen individually one at a time.
+- Create a click button to start/stop option in the DOM.
 __
 #### License information
 
