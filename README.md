@@ -35,6 +35,6 @@ Repository Name  | Link
 -------------|--------------------
 GitHub Portfolio Project | <a href="https://github.com/EliHeuman/eliheuman.github.io">GitHub Portfolio repository</a>
 PacMen Factory Exercise | <a href="https://github.com/EliHeuman/PacMen-Factory-Exercise">PacMen repository</a>
-Bus Tracker Exercise| <a href="https://github.com/EliHeuman/Real-Time-Bus">Bus Tracker repository</a>
+Bus Tracker Exercise| <a href="https://github.com/EliHeuman/Real-Time-Bus-Tracker">Bus Tracker repository</a>
 
 Eli Heuman's website:<a href=https://eliheuman.github.io> eliheuman.github.io</a>
