@@ -25,7 +25,7 @@ ___
 ## Roadmap of future improvements
 - Create a click button to start/stop option in the DOM.
 - Add an option to add more facial features and expressions.
-__
+___
 #### License information
 
 <a href="https://github.com/EliHeuman/Eye/blob/master/License.txt">The MIT License (MIT)</a>
