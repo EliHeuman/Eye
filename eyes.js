@@ -1,5 +1,7 @@
+//Gets a grab on the ball element.
 const balls = document.getElementsByClassName('ball');
 
+//It creates the eyes and makes them follow the cursor.
 document.onmousemove = (event) => {
   const x = (event.clientX * 100) / window.innerWidth + '%';
   const y = (event.clientY * 100) / window.innerHeight + '%';
