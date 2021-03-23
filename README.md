@@ -12,8 +12,9 @@ ___
 ## How to Run
 After cloning this project, you will see it consists of three main files.<br>
 index.html, styles.css, eyes.js.<br>
-The index.html file sets the DOM buttons that call the functions to create, move and delete the Pacman.
-The pacmen.js does all the heavy lifting, creating an array of pacman called "pacMen" and loping through the array to move them and check if they've hit a wall. Depending on each packman's direction, the function "switchImg" changes the image to create a feeling that the packman is moving. 
+The index.html file sets the DOM with two eye divs.
+The eyes.js creates the eyes in the DOM and uses the mousemove event to move the balls and follow the cursor.<br>
+The styles.css uses the class eye and eyes to create the eye color and shape.
 ___
 ## Contribute
 Source Code: https://github.com/EliHeuman/PacMen-Factory-Exercise/blob/master/index.html
