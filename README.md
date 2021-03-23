@@ -24,6 +24,7 @@ If you are having issues, please let me know, and <a href="mailto:biz.elih@gmail
 ___
 ## Roadmap of future improvements
 - Create a click button to start/stop option in the DOM.
+- Add an option to add more facial features and expressions.
 __
 #### License information
 
