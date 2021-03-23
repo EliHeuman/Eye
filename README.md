@@ -28,7 +28,7 @@ ___
 __
 #### License information
 
-<a href="https://github.com/EliHeuman/Eyeblob/master/License.txt">The MIT License (MIT)</a>
+<a href="https://github.com/EliHeuman/Eye/blob/master/License.txt">The MIT License (MIT)</a>
 
 ###### list of links to the different repositories showcased:
 Repository Name  | Link
